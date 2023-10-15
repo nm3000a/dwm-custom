@@ -1,0 +1,1 @@
+* Dwm custom configuration
