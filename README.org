@@ -1,1 +1,17 @@
 * Dwm custom configuration
+** Applied patches
++ systray
++ fullgaps
++ deck layouts
++ runorraise
++ barpadding
++ scratchpad
++ statuspadding patch
+
+** Screenshot
+   #+CAPTION: Dwm
+   [[./screenshot.jpg]]
+
+** Wallpaper
+   Link : [[https://unsplash.com/photos/fO9sol-J0Yo]]
+
